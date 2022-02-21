@@ -1,0 +1,10 @@
+# ignores all the videos and pictures
+
+*.mp4
+*.jpeg
+*.jpg
+*.png
+*.gif
+
+build/
+dist/
